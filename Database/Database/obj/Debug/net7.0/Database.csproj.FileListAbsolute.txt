@@ -1,0 +1,4 @@
+C:\Users\Gebruiker\Downloads\C--main\C--main\Database\Database\obj\Debug\net7.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Downloads\C--main\C--main\Database\Database\obj\Debug\net7.0\Database.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Downloads\C--main\C--main\Database\Database\obj\Debug\net7.0\Database.AssemblyInfo.cs
+C:\Users\Gebruiker\Downloads\C--main\C--main\Database\Database\obj\Debug\net7.0\Database.csproj.CoreCompileInputs.cache
